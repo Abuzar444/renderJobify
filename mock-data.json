@@ -1,0 +1,623 @@
+[
+  {
+    "position": "Project Manager",
+    "company": "Realpoint",
+    "status": "Εκκρεμεί",
+    "jobType": "Συνεργασία",
+    "jobLocation": "Delareyville",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-12-09T12:30:12Z"
+  },
+  {
+    "position": "Staff Accountant III",
+    "company": "Midel",
+    "status": "Εκκρεμεί",
+    "jobType": "Πρακτική",
+    "jobLocation": "Baitian",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-05-24T04:22:55Z"
+  },
+  {
+    "position": "Structural Analysis Engineer",
+    "company": "Eabox",
+    "status": "Εγκρίθηκε",
+    "jobType": "Απομακρυσμένη",
+    "jobLocation": "Al Mazra‘ah",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-12-02T07:32:04Z"
+  },
+  {
+    "position": "Accountant II",
+    "company": "Jabbersphere",
+    "status": "Εκκρεμεί",
+    "jobType": "Πλήρης Απασχόληση",
+    "jobLocation": "Issa",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-08-12T09:36:36Z"
+  },
+  {
+    "position": "Occupational Therapist",
+    "company": "Leenti",
+    "status": "Εκκρεμεί",
+    "jobType": "Πλήρης Απασχόληση",
+    "jobLocation": "Mawa",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2023-01-17T06:04:24Z"
+  },
+  {
+    "position": "Physical Therapy Assistant",
+    "company": "Tagopia",
+    "status": "Απορρίφθηκε",
+    "jobType": "Υβριδική",
+    "jobLocation": "Benito Juarez",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-04-26T19:32:20Z"
+  },
+  {
+    "position": "Cost Accountant",
+    "company": "Blogtag",
+    "status": "Απορρίφθηκε",
+    "jobType": "Ημιαπασχόληση",
+    "jobLocation": "Fucun",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-10-24T14:26:49Z"
+  },
+  {
+    "position": "Teacher",
+    "company": "Avavee",
+    "status": "Απορρίφθηκε",
+    "jobType": "Πρακτική",
+    "jobLocation": "Vilppula",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-09-11T00:18:31Z"
+  },
+  {
+    "position": "Marketing Manager",
+    "company": "Oloo",
+    "status": "Εκκρεμεί",
+    "jobType": "Σύμβουλος",
+    "jobLocation": "Kasulu",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-09-18T08:27:27Z"
+  },
+  {
+    "position": "Senior Developer",
+    "company": "Brainverse",
+    "status": "Απορρίφθηκε",
+    "jobType": "Ημιαπασχόληση",
+    "jobLocation": "Somié",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-06-21T13:27:32Z"
+  },
+  {
+    "position": "Dental Hygienist",
+    "company": "Rhyloo",
+    "status": "Εκκρεμεί",
+    "jobType": "Σύμβουλος",
+    "jobLocation": "Asempapan",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-10-20T08:33:33Z"
+  },
+  {
+    "position": "Research Assistant IV",
+    "company": "Fivechat",
+    "status": "Συνέντευξη",
+    "jobType": "Ημιαπασχόληση",
+    "jobLocation": "Lucapa",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2023-01-09T07:14:30Z"
+  },
+  {
+    "position": "Account Representative III",
+    "company": "Wikibox",
+    "status": "Συνέντευξη",
+    "jobType": "Ημιαπασχόληση",
+    "jobLocation": "Kristianstad",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-11-07T15:00:39Z"
+  },
+  {
+    "position": "Software Test Engineer I",
+    "company": "Topiclounge",
+    "status": "Εκκρεμεί",
+    "jobType": "Υβριδική",
+    "jobLocation": "Megion",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-08-12T11:58:09Z"
+  },
+  {
+    "position": "Product Engineer",
+    "company": "Eadel",
+    "status": "Εγκρίθηκε",
+    "jobType": "Ημιαπασχόληση",
+    "jobLocation": "Norton",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-11-14T04:16:15Z"
+  },
+  {
+    "position": "Biostatistician IV",
+    "company": "Youfeed",
+    "status": "Απορρίφθηκε",
+    "jobType": "Απομακρυσμένη",
+    "jobLocation": "Iaçu",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-12-11T03:06:17Z"
+  },
+  {
+    "position": "Account Representative IV",
+    "company": "Realpoint",
+    "status": "Εγκρίθηκε",
+    "jobType": "Πλήρης Απασχόληση",
+    "jobLocation": "Taiping",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2023-03-24T00:31:57Z"
+  },
+  {
+    "position": "Human Resources Assistant IV",
+    "company": "Yabox",
+    "status": "Εκκρεμεί",
+    "jobType": "Πρακτική",
+    "jobLocation": "Paris 17",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-12-11T07:13:17Z"
+  },
+  {
+    "position": "Computer Systems Analyst I",
+    "company": "Riffwire",
+    "status": "Εκκρεμεί",
+    "jobType": "Συνεργασία",
+    "jobLocation": "Zavet",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-10-29T14:19:19Z"
+  },
+  {
+    "position": "Software Engineer III",
+    "company": "Jabberstorm",
+    "status": "Εγκρίθηκε",
+    "jobType": "Πρακτική",
+    "jobLocation": "Dongkeng",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-05-19T23:09:47Z"
+  },
+  {
+    "position": "Physical Therapy Assistant",
+    "company": "Dynabox",
+    "status": "Εκκρεμεί",
+    "jobType": "Υβριδική",
+    "jobLocation": "Conde",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-05-07T20:28:44Z"
+  },
+  {
+    "position": "Office Assistant I",
+    "company": "Twitterlist",
+    "status": "Εγκρίθηκε",
+    "jobType": "Πλήρης Απασχόληση",
+    "jobLocation": "Villa Altagracia",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2023-02-13T11:30:05Z"
+  },
+  {
+    "position": "Social Worker",
+    "company": "Demimbu",
+    "status": "Συνέντευξη",
+    "jobType": "Υβριδική",
+    "jobLocation": "Dongba",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-07-28T08:48:07Z"
+  },
+  {
+    "position": "Payment Adjustment Coordinator",
+    "company": "Jetwire",
+    "status": "Εκκρεμεί",
+    "jobType": "Πρακτική",
+    "jobLocation": "Cangqian",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-05-13T09:49:10Z"
+  },
+  {
+    "position": "Nurse Practicioner",
+    "company": "Yakidoo",
+    "status": "Απορρίφθηκε",
+    "jobType": "Πρακτική",
+    "jobLocation": "Algarrobo",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-09-23T23:26:20Z"
+  },
+  {
+    "position": "Administrative Assistant IV",
+    "company": "Thoughtsphere",
+    "status": "Εγκρίθηκε",
+    "jobType": "Πρακτική",
+    "jobLocation": "Angers",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-07-04T02:57:50Z"
+  },
+  {
+    "position": "Structural Engineer",
+    "company": "Zoomzone",
+    "status": "Απορρίφθηκε",
+    "jobType": "Υβριδική",
+    "jobLocation": "Kitui",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-04-13T08:45:06Z"
+  },
+  {
+    "position": "Software Engineer IV",
+    "company": "Jetpulse",
+    "status": "Απορρίφθηκε",
+    "jobType": "Συνεργασία",
+    "jobLocation": "Zhouxi",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-04-25T11:54:27Z"
+  },
+  {
+    "position": "Food Chemist",
+    "company": "Wordpedia",
+    "status": "Εκκρεμεί",
+    "jobType": "Πρακτική",
+    "jobLocation": "Lamas",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-10-19T05:37:23Z"
+  },
+  {
+    "position": "Recruiter",
+    "company": "Edgetag",
+    "status": "Εκκρεμεί",
+    "jobType": "Ημιαπασχόληση",
+    "jobLocation": "Larochette",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-05-03T04:41:31Z"
+  },
+  {
+    "position": "Compensation Analyst",
+    "company": "Flashdog",
+    "status": "Εκκρεμεί",
+    "jobType": "Σύμβουλος",
+    "jobLocation": "Mantingantengah",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2023-03-15T09:28:31Z"
+  },
+  {
+    "position": "Media Manager IV",
+    "company": "Wikizz",
+    "status": "Εκκρεμεί",
+    "jobType": "Υβριδική",
+    "jobLocation": "Limbaži",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-12-06T14:34:20Z"
+  },
+  {
+    "position": "Help Desk Operator",
+    "company": "Meedoo",
+    "status": "Εκκρεμεί",
+    "jobType": "Σύμβουλος",
+    "jobLocation": "Léo",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2023-03-26T18:10:54Z"
+  },
+  {
+    "position": "Technical Writer",
+    "company": "Browsezoom",
+    "status": "Εκκρεμεί",
+    "jobType": "Σύμβουλος",
+    "jobLocation": "Estrada",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2023-03-19T20:15:33Z"
+  },
+  {
+    "position": "Community Outreach Specialist",
+    "company": "Avaveo",
+    "status": "Απορρίφθηκε",
+    "jobType": "Απομακρυσμένη",
+    "jobLocation": "Buenavista",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-05-13T13:01:53Z"
+  },
+  {
+    "position": "General Manager",
+    "company": "Tazzy",
+    "status": "Εγκρίθηκε",
+    "jobType": "Σύμβουλος",
+    "jobLocation": "Oceanside",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-04-17T10:54:03Z"
+  },
+  {
+    "position": "Analog Circuit Design manager",
+    "company": "Cogilith",
+    "status": "Εγκρίθηκε",
+    "jobType": "Σύμβουλος",
+    "jobLocation": "Blagoveshchensk",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-12-31T05:40:42Z"
+  },
+  {
+    "position": "Geological Engineer",
+    "company": "Cogibox",
+    "status": "Συνέντευξη",
+    "jobType": "Ημιαπασχόληση",
+    "jobLocation": "Il’inskiy Pogost",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-12-06T09:23:58Z"
+  },
+  {
+    "position": "Business Systems Development Analyst",
+    "company": "Photofeed",
+    "status": "Εκκρεμεί",
+    "jobType": "Πρακτική",
+    "jobLocation": "Zhuanqukou",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-07-05T03:44:25Z"
+  },
+  {
+    "position": "Biostatistician II",
+    "company": "Thoughtworks",
+    "status": "Απορρίφθηκε",
+    "jobType": "Πλήρης Απασχόληση",
+    "jobLocation": "Allentown",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-12-12T13:22:56Z"
+  },
+  {
+    "position": "Speech Pathologist",
+    "company": "Topdrive",
+    "status": "Απορρίφθηκε",
+    "jobType": "Υβριδική",
+    "jobLocation": "Miskolc",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-04-27T19:58:54Z"
+  },
+  {
+    "position": "Analyst Programmer",
+    "company": "Jamia",
+    "status": "Εγκρίθηκε",
+    "jobType": "Πρακτική",
+    "jobLocation": "Ključ",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-08-24T17:02:12Z"
+  },
+  {
+    "position": "Assistant Manager",
+    "company": "Yakijo",
+    "status": "Συνέντευξη",
+    "jobType": "Απομακρυσμένη",
+    "jobLocation": "Chashan",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-09-22T06:22:50Z"
+  },
+  {
+    "position": "General Manager",
+    "company": "Ailane",
+    "status": "Εγκρίθηκε",
+    "jobType": "Πρακτική",
+    "jobLocation": "Sigli",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-06-20T06:26:00Z"
+  },
+  {
+    "position": "Biostatistician III",
+    "company": "Shuffletag",
+    "status": "Απορρίφθηκε",
+    "jobType": "Συνεργασία",
+    "jobLocation": "Malangwa",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-08-28T19:18:45Z"
+  },
+  {
+    "position": "Database Administrator I",
+    "company": "Yodel",
+    "status": "Απορρίφθηκε",
+    "jobType": "Σύμβουλος",
+    "jobLocation": "Glubokiy",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-11-23T05:27:28Z"
+  },
+  {
+    "position": "Marketing Manager",
+    "company": "Linktype",
+    "status": "Συνέντευξη",
+    "jobType": "Συνεργασία",
+    "jobLocation": "Rokietnica",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-08-04T21:28:18Z"
+  },
+  {
+    "position": "Legal Assistant",
+    "company": "Kayveo",
+    "status": "Εκκρεμεί",
+    "jobType": "Ημιαπασχόληση",
+    "jobLocation": "Pillpinto",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-06-18T15:00:59Z"
+  },
+  {
+    "position": "Financial Analyst",
+    "company": "Linkbuzz",
+    "status": "Συνέντευξη",
+    "jobType": "Πρακτική",
+    "jobLocation": "Cempaka",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-09-08T00:05:57Z"
+  },
+  {
+    "position": "Technical Writer",
+    "company": "Browsebug",
+    "status": "Απορρίφθηκε",
+    "jobType": "Ημιαπασχόληση",
+    "jobLocation": "Gharavŭtí",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2023-02-22T12:54:24Z"
+  },
+  {
+    "position": "Financial Analyst",
+    "company": "Youbridge",
+    "status": "Εγκρίθηκε",
+    "jobType": "Συνεργασία",
+    "jobLocation": "Jatisari",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-04-19T03:54:48Z"
+  },
+  {
+    "position": "Quality Engineer",
+    "company": "Wikivu",
+    "status": "Εκκρεμεί",
+    "jobType": "Πρακτική",
+    "jobLocation": "Mananjary",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-11-22T00:42:53Z"
+  },
+  {
+    "position": "Senior Cost Accountant",
+    "company": "Browsebug",
+    "status": "Εκκρεμεί",
+    "jobType": "Απομακρυσμένη",
+    "jobLocation": "Tādif",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2023-01-24T22:13:56Z"
+  },
+  {
+    "position": "Senior Editor",
+    "company": "Shufflester",
+    "status": "Εκκρεμεί",
+    "jobType": "Υβριδική",
+    "jobLocation": "Houston",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2023-03-04T19:37:20Z"
+  },
+  {
+    "position": "Marketing Manager",
+    "company": "Photobug",
+    "status": "Συνέντευξη",
+    "jobType": "Σύμβουλος",
+    "jobLocation": "Concordia",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-09-18T12:02:13Z"
+  },
+  {
+    "position": "Assistant Media Planner",
+    "company": "Topicware",
+    "status": "Εγκρίθηκε",
+    "jobType": "Πρακτική",
+    "jobLocation": "Cikuya",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2023-02-25T23:47:04Z"
+  },
+  {
+    "position": "Accounting Assistant IV",
+    "company": "Roodel",
+    "status": "Εγκρίθηκε",
+    "jobType": "Πλήρης Απασχόληση",
+    "jobLocation": "N'Djamena",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-04-02T08:11:46Z"
+  },
+  {
+    "position": "Senior Developer",
+    "company": "Devpulse",
+    "status": "Συνέντευξη",
+    "jobType": "Απομακρυσμένη",
+    "jobLocation": "Caen",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-06-18T20:24:45Z"
+  },
+  {
+    "position": "Recruiting Manager",
+    "company": "Talane",
+    "status": "Απορρίφθηκε",
+    "jobType": "Υβριδική",
+    "jobLocation": "Sukasetia",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-12-05T16:19:54Z"
+  },
+  {
+    "position": "Sales Representative",
+    "company": "Edgeify",
+    "status": "Συνέντευξη",
+    "jobType": "Σύμβουλος",
+    "jobLocation": "Kraslice",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-08-12T02:02:22Z"
+  },
+  {
+    "position": "Executive Secretary",
+    "company": "Demizz",
+    "status": "Εγκρίθηκε",
+    "jobType": "Ημιαπασχόληση",
+    "jobLocation": "Léo",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-07-16T05:32:50Z"
+  },
+  {
+    "position": "Electrical Engineer",
+    "company": "Kwideo",
+    "status": "Εκκρεμεί",
+    "jobType": "Σύμβουλος",
+    "jobLocation": "Xiangfu",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2023-03-23T14:18:36Z"
+  },
+  {
+    "position": "Sales Representative",
+    "company": "Fatz",
+    "status": "Εγκρίθηκε",
+    "jobType": "Ημιαπασχόληση",
+    "jobLocation": "Masiga",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2023-02-02T22:47:43Z"
+  },
+  {
+    "position": "Electrical Engineer",
+    "company": "Jazzy",
+    "status": "Εγκρίθηκε",
+    "jobType": "Σύμβουλος",
+    "jobLocation": "Siekierczyn",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-07-17T02:54:39Z"
+  },
+  {
+    "position": "Research Assistant I",
+    "company": "Wikizz",
+    "status": "Απορρίφθηκε",
+    "jobType": "Πλήρης Απασχόληση",
+    "jobLocation": "Krajan Dua Padomasan",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-08-07T07:20:34Z"
+  },
+  {
+    "position": "Teacher",
+    "company": "Einti",
+    "status": "Συνέντευξη",
+    "jobType": "Σύμβουλος",
+    "jobLocation": "Bandera",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-05-04T11:13:00Z"
+  },
+  {
+    "position": "Registered Nurse",
+    "company": "Eire",
+    "status": "Απορρίφθηκε",
+    "jobType": "Συνεργασία",
+    "jobLocation": "Nanmo",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-08-05T10:17:46Z"
+  },
+  {
+    "position": "Electrical Engineer",
+    "company": "Jabbertype",
+    "status": "Απορρίφθηκε",
+    "jobType": "Πρακτική",
+    "jobLocation": "Mantes-la-Jolie",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-09-16T13:09:53Z"
+  },
+  {
+    "position": "VP Accounting",
+    "company": "Vinder",
+    "status": "Εγκρίθηκε",
+    "jobType": "Πρακτική",
+    "jobLocation": "Huangzhai",
+    "createdBy": "642bd9123a69799ccf4c4364",
+    "createdAt": "2022-11-18T23:05:00Z"
+  }
+]
